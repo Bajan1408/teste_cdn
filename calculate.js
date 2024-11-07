@@ -19,7 +19,7 @@ class Calculate {
 
 }
 
-export { Calculate };
+//export { Calculate };
 
 
 
